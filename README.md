@@ -22,7 +22,9 @@ Hi there, I'm a **computer science student**.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alojeda30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleon30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aleon30/)
+
 [![Hackerrank](https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png)](https://www.hackerrank.com/profile/aleon_n_)
 
+![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=aleon_n_)
 ![Codeforces Stats](https://codeforces-stats-vlx.vercel.app/api/card?username=aleon_n_&theme=dark)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/aleon30?theme=dark&ext=heatmap)
