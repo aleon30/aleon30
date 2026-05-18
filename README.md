@@ -12,11 +12,5 @@ Hi there, I'm a **computer science student**.
 
 ### Contact me:
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)[(https://www.linkedin.com/in/adrian-alejandro-leon-ojeda-7120b528b)
 - Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.alojeda30@gmail.com)
-
-### My GitHub Stats
-
-![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=L1cardo&show_icons=true)
-
-⭐️ From [L1cardo](https://github.com/aleon30)
