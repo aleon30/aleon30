@@ -1,5 +1,3 @@
-![me](https://github.com/L1cardo/L1cardo/raw/master/assets/me.gif)
-
 ## Hi 👋, I'm Adrian Leon
 
 Hi there, I'm a **computer science student**.
@@ -15,7 +13,7 @@ Hi there, I'm a **computer science student**.
 ### Code editors:
 
 [![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?&logo=visualstudio&logoColor=white)](#)
-![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
 ### Contact me:
@@ -24,3 +22,5 @@ Hi there, I'm a **computer science student**.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alojeda30@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleon30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/CiWCT5sTKn/)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/aleon30?theme=dark&ext=heatmap)
