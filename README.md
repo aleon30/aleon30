@@ -13,4 +13,4 @@ Hi there, I'm a **computer science student**.
 ### Contact me:
 
 - LinkedIn: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-alejandro-leon-ojeda-7120b528b)]
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.alojeda30@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/alojeda30@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:albert.alojeda30@gmail.com)
