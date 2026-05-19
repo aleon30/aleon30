@@ -1,4 +1,4 @@
-## Hi 👋, I'm Adrian Leon
+## Hi 👋, I'm Adrian
 
 Hi there, I'm a **computer science student**.
 
