@@ -25,7 +25,7 @@ Hi there, I'm a **computer science student**.
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleon30)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/aleon30/)
 <a href="https://www.hackerrank.com/profile/aleon_n_">
-    <img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" width="80">
+    <img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" alt="HackerRank Logo" width="80">
 </a>
 <hr>
 
