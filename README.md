@@ -19,15 +19,10 @@ Hi there, I'm a **computer science student**.
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
 <h3>Contact me:</h3>
-<a href="https://www.linkedin.com/in/adrian-alejandro-leon-ojeda-7120b528b/?locale=es-ES">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-</a>
-<a href="mailto:alojeda30@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://github.com/aleon30">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
-</a>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/adrian-alejandro-leon-ojeda-7120b528b/?locale=es-ES)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:alojeda30@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/aleon30)
 <a href="https://www.hackerrank.com/profile/aleon_n_">
     <img src="https://cloud.githubusercontent.com/assets/5856011/6236489/fd2c2628-b6b8-11e4-9db9-05045d3438c6.png" width="80">
 </a>
