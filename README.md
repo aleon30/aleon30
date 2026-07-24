@@ -31,8 +31,8 @@ Hi there, I'm a **computer science student**.
 <hr>
 
 <div align="center">
-<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=aleon_n_&theme=dark" alt="Codeforces Stats"><br>
-<img src="https://leetcard.jacoblin.cool/aleon30?theme=dark&ext=heatmap" alt="Leetcode Stats"><br>
-<img src="https://gfgstatscard.vercel.app/aleon30?theme=dark" alt="GeeksForGeeks Stats"><br>
-<img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=aleon_n_" alt="HackerRank Stats"/>
+<img src="https://codeforces-stats-vlx.vercel.app/api/card?username=aleon_n_&theme=dark" alt="Codeforces Stats" style="height: 160px">
+<img src="https://leetcard.jacoblin.cool/aleon30?theme=dark&ext=heatmap" alt="Leetcode Stats" style="height: 160px"><br>
+<img src="https://gfgstatscard.vercel.app/aleon30?theme=dark" alt="GeeksForGeeks Stats" style="height: 160px">
+<img src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=aleon_n_" alt="HackerRank Stats" style="height: 160px">
 </div>
